@@ -1,6 +1,7 @@
 # DiceGame
 This is a Dice Game developed in Pure Javascript And CSS3
 
+Link:- https://ankitsharmaongithub.github.io/DiceGame/
 
 GAME RULES:
 
